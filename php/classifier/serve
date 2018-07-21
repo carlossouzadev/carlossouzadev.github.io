@@ -1,3 +1,0 @@
-rm trainer.txt
-touch trainer.txt
-php -S localhost:3000
