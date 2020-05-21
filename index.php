@@ -1,4 +1,5 @@
-      $response = array(
+<?php
+$response = array(
           "outputSpeech" => array(
               "type" => "PlainText",
               "text" => "Hello World"
